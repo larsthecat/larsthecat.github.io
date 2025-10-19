@@ -1,5 +1,5 @@
 # larsthecat Official
 Welcome to the larsthecat page 
-Links:
+Links: <br>
 Click [here](https://larsthecat.github.io/New-FNAF/1/) for New-FNAF<br>
 
